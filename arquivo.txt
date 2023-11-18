@@ -1,0 +1,8 @@
+Teste
+Lista
+Comandos Git
+Som! Testando.
+Let's Go!
+
+
+Executando o git pull
